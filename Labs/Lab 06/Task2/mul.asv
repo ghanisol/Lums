@@ -1,0 +1,6 @@
+function [ i ] = mul( x, y )
+i = x;
+
+
+end
+

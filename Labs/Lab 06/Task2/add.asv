@@ -1,0 +1,6 @@
+function [ i ] = add( x, y )
+i = x;
+for a = 1:y
+    [i j] = incdec(x)); 
+end
+
