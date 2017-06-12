@@ -1,0 +1,19 @@
+#row div 
+{
+	width: 50px;
+	height: 50px;
+	border-style: solid;
+    border-width: 2px;
+    text-align: center;
+    font-size: 40px;
+	background-color: #966F33;
+	display: inline-block;
+}
+
+p
+{
+	font-size: 20px;
+	color: #335B96;
+	padding: 10px;
+	display: inline-block;
+}
