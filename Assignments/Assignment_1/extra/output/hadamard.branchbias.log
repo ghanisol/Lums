@@ -1,6 +1,0 @@
-*********************************************
-FAIL: Output DOES NOT match the golden output
-*********************************************
-Function                                Bias           Taken          Total          
-main                                    0.992278       257            259            
-fastWalshTransform                      0.839243       710            846            
