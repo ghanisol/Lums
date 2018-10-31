@@ -1,0 +1,10 @@
+vehicle CD70 Honda 2006 ABC1845
+heavytruck HP100 Volvo 2010 RET6349 6000 20000 150000 1 4
+sportscar Vantage AstonMartin 2013 UED2481 4 2 10000 50000 200 5
+car Corolla Toyota 2013 GWA5271 2 4 1000 10000
+largecar LandCruiser Toyota 2012 RWA1003 4 8 1000 15000 1 500
+lightTruck Shehzore Hyundai 2010 FEK2918 2000 5000 50000 0 Walls
+truck XP400 Hino 2005 PRQ8100 5000 18000 150000
+car Civic Honda 2014 DWP2011 2 4 1000 15000
+vehicle CG125 Honda 2012 ADE5729
+sportscar Mustang Ford 1967 RVQ7761 4 2 15000 70000 170 10
