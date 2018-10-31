@@ -1,0 +1,27 @@
+function foo()
+{
+	bar();
+	xoo();
+}
+
+function bar()
+{
+	$x = xoo() + 3;
+	
+	hello();
+}
+
+hello();
+
+if (2 < 3)
+{
+	xoo();
+}
+else
+{
+	doo();
+}
+
+
+$x = yo();
+foo(2,1, "hello");
