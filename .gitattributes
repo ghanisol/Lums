@@ -1,5 +1,4 @@
 # Auto detect text files and perform LF normalization
-<<<<<<< HEAD
 * text=auto
 
 # Custom for Visual Studio
@@ -18,4 +17,3 @@
 *.RTF	 diff=astextplain
 =======
 * text=auto
->>>>>>> remote_cs202/master
