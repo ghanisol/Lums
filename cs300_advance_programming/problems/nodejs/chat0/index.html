@@ -1,0 +1,22 @@
+<html>
+	<body>
+		<script type="text/javascript" src="/socket.io/socket.io.js"></script>	
+		<script> 
+			var clientSocket = io();
+
+			// to join other namespaces
+			var news = io('http://localhost:4000/news')
+			
+			
+			clientSocket.emit('message', 'Hello from the client');
+			clientSocket.emit('tellEveryone', 'Hello everyone')
+
+			clientSocket.on('greetings', (msg, id) =>
+				console.log(`Got a message from the server : ${msg}, my id is : ${id}`));
+
+			clientSocket.on('heyEveryone', (msg, id) =>
+				console.log(`Got a message from a user : ${msg}, user id : ${id}`));			
+
+		</script>
+	</body>
+</html>
